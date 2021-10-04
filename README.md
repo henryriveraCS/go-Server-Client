@@ -1,8 +1,8 @@
 <h1>Instructions</h1>
 
-<br>Start running the server by running <code>go run server.go</code></br>
+<br>Start running the server by using:<code>go run server.go</code></br>
 <br/>
-You can now send bytes to the server by running: <code>go run app.go -msg="Hello World!"</code> (or choose any string you want)
+Once the server is running you can now send bytes to the server with:<code>go run app.go -msg="Hello World!"</code>(or choose any string you want)
 <br />
 
 <p>
